@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://taskapp:taskapp@cluster0-lst3l.mongodb.net/test?retryWrites=true&w=majority",
+    "server":{
+        "port":"3000"
+    }
+}
