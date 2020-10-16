@@ -1,4 +1,7 @@
 /* eslint-env jest */
+/**
+ * @jest-environment jsdom
+ */
 
 import { render, screen } from '@testing-library/react'
 import App from '../src/pages/index.tsx'
