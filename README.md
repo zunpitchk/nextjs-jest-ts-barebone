@@ -1,1 +1,1 @@
-Front end for Faceloca.com application
+Front end
